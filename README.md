@@ -28,8 +28,8 @@ Algorithm — Decision Tree Classifier for Employee Churn
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: ANNLEE AGHAI DAVIDSON
-RegisterNumber:  25001177
+Developed by: M D Jedidiah
+RegisterNumber:  25012775
 
 
 import pandas as pd
